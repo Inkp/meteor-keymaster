@@ -1,8 +1,8 @@
 {
   "name": "keymaster",
   "description": "Keymaster is a simple micro-library for defining and dispatching keyboard shortcuts in web applications.",
-  "homepage": "",
+  "homepage": "https://github.com/Inkp/meteor-keymaster",
   "author": "Inkp",
   "version": "1.6.2 ",
-  "git": ""
+  "git": "https://github.com/Inkp/meteor-keymaster.git"
 }

@@ -1,0 +1,8 @@
+{
+  "name": "keymaster",
+  "description": "Keymaster is a simple micro-library for defining and dispatching keyboard shortcuts in web applications.",
+  "homepage": "",
+  "author": "Inkp",
+  "version": "1.6.2 ",
+  "git": ""
+}
